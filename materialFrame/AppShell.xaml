@@ -30,8 +30,8 @@
     </Shell.Resources>
 
     <TabBar>
-        <ShellContent Title="Material Frame" Icon="icon_about.png"  ContentTemplate="{DataTemplate local:MaterialFrame}" />
-        <ShellContent Title="Browse" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:ItemsPage}" />
+        <ShellContent Title="Material Frame" Icon="icon_feed.png" ContentTemplate="{DataTemplate local:MaterialFrame}" />
+        <ShellContent Title="Acerca" Icon="icon_about.png"   ContentTemplate="{DataTemplate local:AboutPage}" />
     </TabBar>
 
     <!--

@@ -27,6 +27,7 @@
                     </VisualStateGroupList>
                 </Setter>
             </Style>
+            <!-- implementación de Recursos por concepto de Diseño-->
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="/Styles/Colors.xaml" />
                 <ResourceDictionary Source="/Styles/Global.xaml" />
